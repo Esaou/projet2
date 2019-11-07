@@ -1,0 +1,18 @@
+[22/Oct/2019:11:16:17] (ℹ️): WordPress Instance Info:
+[22/Oct/2019:11:16:17] (ℹ️): Home URL : http://127.0.0.1/wordpress
+[22/Oct/2019:11:16:17] (ℹ️): Site URL : http://127.0.0.1/wordpress
+[22/Oct/2019:11:16:17] (ℹ️): WordPress Version : 5.2.4
+[22/Oct/2019:11:16:17] (ℹ️): Onboarding Version : 1.7.8
+[22/Oct/2019:11:16:17] (ℹ️): Multisite : No
+[22/Oct/2019:11:16:17] (ℹ️): Server Info : Apache/2.4.39 (Win64) PHP/7.2.18
+[22/Oct/2019:11:16:17] (ℹ️): PHP Version : 7.2.18
+[22/Oct/2019:11:16:17] (ℹ️): HTTPS : No
+[22/Oct/2019:11:16:17] (ℹ️): PHP Max Execution Time : 120
+[22/Oct/2019:11:16:17] (ℹ️): PHP Max Input Vars : 2500
+[22/Oct/2019:11:16:17] (ℹ️): Max Upload Size : 2097152
+[22/Oct/2019:11:16:17] (ℹ️): Plugins:
+[22/Oct/2019:11:16:17] (ℹ️): [PLUGIN] Events Manager : v5.9.6 (Marcus Sykes)
+[22/Oct/2019:11:16:17] (ℹ️): [PLUGIN] Image de menu : v2.9.5 (Rui Guerreiro)
+[22/Oct/2019:11:16:17] (ℹ️): [PLUGIN] Gutenberg Blocks and Template Library by Otter : v1.2.5 (ThemeIsle)
+[22/Oct/2019:11:16:17] (ℹ️): [PLUGIN] TablePress : v1.9.2 (Tobias Bäthge)
+[22/Oct/2019:11:16:17] (ℹ️): [PLUGIN] WPForms Lite : v1.5.5.1 (WPForms)

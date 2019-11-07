@@ -1,0 +1,945 @@
+# Translation of Plugins - WP Latest Posts - Stable (latest release) in French (France)
+# This file is distributed under the same license as the Plugins - WP Latest Posts - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-05-22 09:29:01+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: fr\n"
+"Project-Id-Version: Plugins - WP Latest Posts - Stable (latest release)\n"
+
+#: inc/admin/views/tabs/shortcode.php:111
+msgid "Publication date"
+msgstr "Date de publication"
+
+#: js/blocks/insert-news-block/block.js:504
+msgid "post"
+msgstr "article"
+
+#: inc/wplp-admin.inc.php:1277
+msgid "Select a News Block"
+msgstr "Sélectionnez un bloc de nouvelles"
+
+#: inc/wplp-admin.inc.php:1276
+msgid "No post found"
+msgstr "Aucun article trouvé"
+
+#: requirements.php:204
+msgid "<strong>%s</strong> requires php extension <strong>%s</strong> installed."
+msgstr "<strong>%s</strong> A besoin de l'extension php <strong>%s</strong> installé."
+
+#: requirements.php:257
+msgid "<strong>%s</strong> requires php function <strong>%s</strong> to be enable."
+msgstr "<strong>%s</strong> Nécessite la fonction php <strong>%s</strong> pour être activé."
+
+#: requirements.php:231
+msgid "<strong>%s</strong> requires php class <strong>%s</strong> to be enable."
+msgstr "<strong>%s</strong> Nécessite la classe <strong>%s</strong> pour être activé."
+
+#: requirements.php:366
+msgid "Minimum required version of <strong>%1$s is %2$s</strong> to work with <strong>%3$s %4$s</strong>. Please update the plugin."
+msgstr "Version minimum nécessaire <strong>%1$s est %2$s</strong> pour fonctionner <strong>%3$s %4$s</strong>. Veuillez mettre à jour l'extension."
+
+#: requirements.php:320
+msgid "<strong>%1$s %2$s</strong> requires at least <strong>%3$s %4$s</strong>."
+msgstr "<strong>%1$s %2$s</strong> a besoin au moins <strong>%3$s %4$s</strong>."
+
+#: requirements.php:303
+msgid "<strong>%1$s</strong> requires <strong>%2$s</strong> plugin to be activated."
+msgstr "<strong>%1$s</strong> a besoin <strong>%2$s</strong> de l'extension pour être activé."
+
+#: requirements.php:277
+msgid "<strong>%1$s</strong> need at least PHP %2$s version, please update php before installing the plugin."
+msgstr "<strong>%1$s</strong>a besoin au moins de la version PHP %2$s, veuillez mettre à jour php avant d'installer l'extension."
+
+#: inc/wplp-front.inc.php:3189
+msgid "Submit"
+msgstr "Envoyer"
+
+#: inc/wplp-admin.inc.php:678
+msgid "Invalid date."
+msgstr "Date non valide."
+
+#: inc/wplp-admin.inc.php:758
+msgid "No permission!"
+msgstr "Aucun droit !"
+
+#: inc/admin/views/widget.php:81 inc/admin/views/widget.php:84
+msgid "Back To Block List"
+msgstr "Retour à la liste de blocage"
+
+#: inc/admin/views/widget.php:77
+msgid "Search settings"
+msgstr "Rechercher les réglages"
+
+#: inc/admin/views/widget.php:68
+msgid "JoomUnited logo"
+msgstr "Logo de Joomunited"
+
+#: inc/admin/views/widget.php:51
+msgid "Advanced news"
+msgstr "Nouvelles avancées"
+
+#: inc/admin/views/widget.php:36
+msgid "All news blocks"
+msgstr "Tous les blocs de nouvelles"
+
+#: inc/admin/views/tabs/theme.php:648
+msgid "Bullets"
+msgstr "Puces"
+
+#: inc/admin/views/tabs/theme.php:647
+msgid "Arrows with bullets"
+msgstr "Flèches avec des puces"
+
+#: inc/admin/views/tabs/theme.php:646
+msgid "Arrows"
+msgstr "Flèches"
+
+#: inc/admin/views/tabs/theme.php:645
+msgid "None"
+msgstr "Aucun"
+
+#: inc/admin/views/tabs/theme.php:536
+msgid "Arrow settings"
+msgstr "Réglage de la flèche"
+
+#: inc/admin/views/tabs/theme.php:237
+msgid "Overlay Image"
+msgstr "Image de superposition"
+
+#: inc/admin/views/tabs/theme.php:188
+msgid "Read More Button"
+msgstr "Bouton lire la suite"
+
+#: inc/admin/views/tabs/theme.php:153
+msgid "New Item"
+msgstr "Nouvel article"
+
+#: inc/admin/views/tabs/theme.php:95
+msgid "Theme choice & Preview"
+msgstr "Choix du thème et aperçu"
+
+#: inc/admin/views/tabs/theme.php:80
+msgid "Text Settings"
+msgstr "Réglages du texte"
+
+#: inc/admin/views/tabs/system-check.php:48
+msgid "Your PHP version is "
+msgstr "Votre version de PHP est "
+
+#: inc/admin/views/tabs/system-check.php:30
+msgid "version"
+msgstr "version"
+
+#: inc/admin/views/tabs/system-check.php:28
+msgid "PHP "
+msgstr "PHP "
+
+#: inc/admin/views/tabs/system-check.php:26
+msgid "PHP Version"
+msgstr "Version PHP"
+
+#: inc/admin/views/tabs/system-check.php:18
+msgid ""
+"We have checked your server environment. \n"
+"        If you see some warning below it means that some plugin features may not work properly.\n"
+"        Reload the page to refresh the results"
+msgstr ""
+"Nous avons analyser votre environnement du serveur. \n"
+"        Si vous avez des avertissement ci-dessous, cela signifie que certaines fonctionnalités de l'extension peuvent ne pas fonctionner correctement.\n"
+"        Recharger la page pour rafraichir les résultats."
+
+#: inc/admin/views/widget.php:46 inc/admin/views/tabs/system-check.php:14
+msgid "System check"
+msgstr "Vérification du système"
+
+#: inc/admin/views/tabs/list-blocks.php:86
+msgid "Delete"
+msgstr "Effacer"
+
+#: inc/admin/views/tabs/list-blocks.php:83
+msgid "(untitled)"
+msgstr "(sans titre)"
+
+#: inc/admin/views/tabs/list-blocks.php:35
+msgid "Search blocks by title or author"
+msgstr "Rechercher des blocs par titre ou par auteur"
+
+#: inc/admin/views/tabs/list-blocks.php:23
+msgid "New block"
+msgstr "Nouveau bloc"
+
+#: inc/admin/views/tabs/image-source.php:78
+msgid "Automatic"
+msgstr "Automatique"
+
+#: inc/admin/views/tabs/image-source.php:57
+msgid "Images Source"
+msgstr "Source de l'image"
+
+#: inc/admin/views/tabs/image-source.php:7
+msgid "Use first image"
+msgstr "Utiliser la première image"
+
+#: inc/admin/views/tabs/header-form.php:75
+msgid "Enter title here"
+msgstr "Saisir le titre ici"
+
+#: inc/admin/views/tabs/header-form.php:64
+msgid "Block saved successfully!"
+msgstr "La sauvegarde du bloc a bien été effectuée !"
+
+#: inc/admin/views/tabs/header-form.php:52
+msgid "Update"
+msgstr "Mise à jour"
+
+#: inc/admin/views/tabs/header-form.php:48
+msgid "Publish"
+msgstr "Publier"
+
+#: inc/admin/views/tabs/content-source.php:254
+#: inc/admin/views/tabs/content-source.php:413
+msgid "All Category"
+msgstr "Toutes les catégories"
+
+#: inc/admin/views/tabs/content-source.php:245
+#: inc/admin/views/tabs/content-source.php:404
+#: inc/admin/views/tabs/content-source.php:554
+msgid "Search content"
+msgstr "Rechercher du contenu"
+
+#: inc/admin/views/tabs/content-source.php:109
+msgid "Content selected :"
+msgstr "Contenu sélectionné :"
+
+#: inc/admin/views/tabs/content-source.php:60
+#: inc/admin/views/tabs/content-source.php:175
+msgid "Tags"
+msgstr "Étiquettes"
+
+#: inc/admin/views/tabs/content-source.php:58
+#: inc/admin/views/tabs/content-source.php:157
+msgid "Posts"
+msgstr "Articles"
+
+#: inc/admin/views/tabs/bottom-form.php:32
+msgid "CLOSE FOR ONE MONTH"
+msgstr "FERMER POUR UN MOIS"
+
+#: inc/admin/views/tabs/bottom-form.php:20
+msgid "WP LATEST POSTS PRO ADDON"
+msgstr "WP LATEST POSTS PRO ADDON"
+
+#: inc/admin/views/tabs/shortcode.php:127
+msgid "Time"
+msgstr "Temps"
+
+#: inc/admin/views/tabs/shortcode.php:93
+msgid "Visibility"
+msgstr "Visibilité"
+
+#: inc/admin/views/tabs/header-form.php:56
+#: inc/admin/views/tabs/shortcode.php:76
+msgid "Scheduled"
+msgstr "Planifié"
+
+#: inc/admin/views/tabs/list-blocks.php:65
+#: inc/admin/views/tabs/shortcode.php:60
+msgid "Status"
+msgstr "État"
+
+#: inc/admin/views/tabs/shortcode.php:55
+msgid "Save current block to generate shortcode"
+msgstr "Enregistrer le bloc actuel pour générer un code court"
+
+#: inc/admin/views/widget.php:23 inc/admin/views/tabs/list-blocks.php:53
+#: inc/admin/views/tabs/shortcode.php:44
+msgid "Shortcode"
+msgstr "Code court"
+
+#: inc/admin/views/tabs/shortcode.php:11 inc/admin/views/tabs/shortcode.php:20
+msgid "Private"
+msgstr "Privé"
+
+#: inc/admin/views/tabs/shortcode.php:10 inc/admin/views/tabs/shortcode.php:23
+msgid "Password protected"
+msgstr "Protégé par mot de passe"
+
+#: inc/admin/views/tabs/shortcode.php:9 inc/admin/views/tabs/shortcode.php:26
+msgid "Public"
+msgstr "Publique"
+
+#: inc/admin/views/tabs/shortcode.php:5 inc/admin/views/tabs/shortcode.php:80
+#: inc/admin/views/tabs/shortcode.php:86
+msgid "Draft"
+msgstr "Brouillon"
+
+#: inc/admin/views/tabs/shortcode.php:4 inc/admin/views/tabs/shortcode.php:70
+#: inc/admin/views/tabs/shortcode.php:83
+msgid "Published"
+msgstr "Publié"
+
+#: inc/admin/views/tabs/advanced.php:36
+msgid "No Post Content"
+msgstr "Aucun contenu d’article"
+
+#: inc/admin/views/tabs/advanced.php:13
+msgid "Date Format"
+msgstr "Format de date"
+
+#: inc/admin/views/tabs/advanced-news.php:101
+msgid "Check our product page"
+msgstr "Consultez notre page produit"
+
+#: inc/admin/views/tabs/advanced-news.php:70
+#: inc/admin/views/tabs/advanced-news.php:88
+msgid "Pro addon feature"
+msgstr "Fonctionnalités du module"
+
+#: inc/admin/views/tabs/advanced-news.php:58
+msgid "WP Latest Posts PRO ADDON"
+msgstr "WP Latest Posts Module Pro"
+
+#: inc/admin/views/tabs/advanced-news.php:56
+msgid "Do more with your content with "
+msgstr "Faites plus de votre contenu avec "
+
+#: inc/admin/views/tabs/advanced-news.php:46
+msgid "Option to load post content using OR and AND selectors"
+msgstr "Option de chargement de contenu d'articles à l'aide des sélecteurs OR et AND"
+
+#: inc/admin/views/tabs/advanced-news.php:45
+msgid "Advanced news Selection"
+msgstr "Sélection de nouvelles avancées"
+
+#: inc/admin/views/tabs/advanced-news.php:42
+msgid "Select animation for default and smooth hover slider theme: fade or slide and duration"
+msgstr "Sélectionner l’animation par défaut et le curseur de survol régulier pour le thème diaporama : fondu ou diapositive et durée"
+
+#: inc/admin/views/tabs/theme.php:86 inc/admin/views/tabs/advanced-news.php:41
+msgid "Animation"
+msgstr "Animation"
+
+#: inc/admin/views/tabs/advanced-news.php:38
+msgid "Add your latest news and configuration wherever you want with a PHP shortcode, for example in your page layouts"
+msgstr "Ajoutez vos dernières nouvelles et configuration où bon vous semble avec un code court PHP, par exemple dans vos mises en page"
+
+#: inc/admin/views/tabs/advanced-news.php:37
+msgid "PHP shortcode"
+msgstr "Code court PHP"
+
+#: inc/admin/views/tabs/advanced-news.php:34
+msgid "Select image source, featured or first content image and setup a default image to prevent content without image"
+msgstr "Sélectionner la source de l'image, l'image mise en avant ou la première image du contenu et configurer une image par défaut pour empêcher le contenu sans image."
+
+#: inc/admin/views/tabs/advanced-news.php:33
+msgid "Image source"
+msgstr "Source de l'image"
+
+#: inc/admin/views/tabs/advanced-news.php:30
+msgid "The plugin is integrated with Polylang and WPML, filter news by language"
+msgstr "L'extension est intégré à Polylang et WPML, il filtre les nouvelles par langue"
+
+#: inc/admin/views/tabs/advanced-news.php:29
+msgid "WPML & Polylang"
+msgstr "WPML & Polylang"
+
+#: inc/admin/views/tabs/advanced-news.php:24
+msgid "Create news layouts with an infinite number of widgets, so you and your clients can focus on content"
+msgstr "Créer des mises en page de nouvelles avec un nombre infini de widgets, de sorte que vous et vos clients puissiez vous concentrer sur le contenu."
+
+#: inc/admin/views/tabs/advanced-news.php:23
+msgid "Focus on content"
+msgstr "Focus sur le contenu"
+
+#: inc/admin/views/tabs/advanced-news.php:20
+msgid "Automatically crop your content title and text by selecting the number of words, chars or lines"
+msgstr "Recadrer automatiquement le titre et le texte de votre contenu en sélectionnant le nombre de mots, caractères ou lignes"
+
+#: inc/admin/views/tabs/advanced-news.php:15
+msgid "One click design"
+msgstr "Conception en un clic"
+
+#: inc/admin/views/tabs/advanced-news.php:11
+msgid "Content & Advanced Filters"
+msgstr "Filtres de contenu et filtres avancés"
+
+#: inc/admin/views/tabs/advanced-news.php:8
+msgid "Advanced configuration for the default theme + 5 advanced themes and layouts"
+msgstr "Configuration avancée pour le thème par défaut + 5 thèmes et mises en page avancés"
+
+#: inc/admin/views/tabs/advanced-news.php:7
+msgid "5 advanced themes"
+msgstr "5 thèmes avancés"
+
+#: inc/admin/views/tabs/image-source.php:5
+msgid "Use featured image"
+msgstr "Utiliser l’image mise en avant"
+
+#: inc/admin/views/tabs/bottom-form.php:29
+msgid "MORE INFORMATION"
+msgstr "PLUS D’INFORMATION"
+
+#: inc/admin/views/tabs/header-form.php:45
+msgid "Save to draft"
+msgstr "Enregistrer en brouillon"
+
+#: inc/admin/views/tabs/image-source.php:59
+msgid "Select use image"
+msgstr "Sélectionner l’image à utiliser"
+
+#: inc/admin/views/tabs/shortcode.php:103 inc/wplp-front.inc.php:3188
+msgid "Password:"
+msgstr "Mot de passe :"
+
+#: inc/admin/views/tabs/list-blocks.php:30
+msgid "Delete selected"
+msgstr "Supprimer l'élément sélectionné"
+
+#: inc/wplp-front.inc.php:3187
+msgid "To view this protected post, enter the password below:"
+msgstr "Pour voir cet article protégé, saisir le mot de passe ci-dessous :"
+
+#: inc/admin/views/tabs/shortcode.php:73
+msgid "Privately Published"
+msgstr "Publié en privé"
+
+#: inc/admin/views/tabs/system-check.php:55
+msgid "Great ! Your PHP version is "
+msgstr "Génial ! Votre version de PHP est "
+
+#: inc/admin/views/tabs/list-blocks.php:101
+msgid "No blocks found."
+msgstr "Aucun bloc trouvé."
+
+#: inc/admin/views/tabs/advanced-news.php:19
+msgid "Automatically crop content"
+msgstr "Rogner automatiquement le contenu"
+
+#: inc/wplp-front.inc.php:1160
+msgid "The content will be displayed in the future :)"
+msgstr "Le contenu sera affiché prochainement."
+
+#: inc/wplp-front.inc.php:1154
+msgid "Sorry, you are not allowed to access widget on this site."
+msgstr "Désolé, vous n'êtes pas autorisé à accéder au widget sur ce site."
+
+#: inc/wplp-admin.inc.php:763
+msgid "Fail to verify nonce!"
+msgstr "Impossible de vérifier nonce."
+
+#: inc/admin/views/tabs/image-source.php:88
+msgid "Image position"
+msgstr "Position de l’image"
+
+#: inc/admin/views/tabs/bottom-form.php:23
+msgid ""
+"Bring your WordPress website to the next level with the PRO Addon:\n"
+"                                     5 Advanced Themes, Content & Advanced Filters, Automatic Crop Content,\n"
+"                                      One Click Design and more!"
+msgstr ""
+"Accédez à un niveau supérieur votre site Web WordPress  avec l'addon PRO :\n"
+"                                      5 thèmes avancés, contenu et filtres avancés, rognage automatique du contenu,\n"
+"                                       One Click Design et plus !"
+
+#: inc/admin/views/tabs/advanced-news.php:16
+msgid "In advanced themes you got a color picker to make your news fit your theme in just one click"
+msgstr "Dans les thèmes avancés, vous disposez d'un sélecteur de couleur pour designer votre actualité à votre thème en un clic."
+
+#: inc/admin/views/tabs/advanced-news.php:12
+msgid "Load content from tags, custom post type categories or page selection and filter by news dates"
+msgstr "Chargez le contenu à partir d'étiquettes, de catégories de type de publication personnalisées ou de sélection de page et filtrez-les par dates d'actualités."
+
+#: inc/wplp-admin.inc.php:878 inc/wplp-admin.inc.php:883
+msgid "You attempted to edit an item that doesn&#8217;t exist. Perhaps it was deleted?"
+msgstr "Vous tentez de modifier un contenu qui n’existe pas. Peut-être a-t-il été supprimé ?"
+
+#: inc/admin/views/tabs/system-check.php:50
+msgid ""
+". For performance and security reasons it better to run PHP 7.2+.\n"
+"            Comparing to previous versions the execution time of PHP 7.X is more than twice as fast and has 30 percent lower memory consumption"
+msgstr ""
+".Pour des raisons de performances et de sécurité, mieux vaut utiliser PHP 7.2 +.\n"
+"             Comparé aux versions précédentes, le temps d'exécution de PHP 7.X est deux fois plus rapide et sa consommation de mémoire est réduite de 30 %."
+
+#: inc/admin/views/configuration.php:159
+msgid "Initially released in october 2013 by "
+msgstr "Initialement publié en octobre 2013 par "
+
+#: inc/admin/views/tabs/theme.php:539
+msgid "Arrow Color"
+msgstr "Couleur de la flèche"
+
+#: inc/admin/views/tabs/theme.php:546
+msgid "Arrow Mouse Hover"
+msgstr "Flèche au survol"
+
+#: inc/admin/views/tabs/theme.php:191
+msgid "Button Color"
+msgstr "Couleur du bouton"
+
+#: inc/admin/views/tabs/theme.php:208
+msgid "Button Size"
+msgstr "Taille du bouton"
+
+#: inc/admin/views/tabs/theme.php:198
+msgid "Button Text Color"
+msgstr "Couleur du bouton"
+
+#: inc/admin/views/tabs/theme.php:525
+msgid "Overlay Transparency"
+msgstr "Transparence de couverture"
+
+#: inc/admin/views/tabs/theme.php:230
+msgid "px"
+msgstr "px"
+
+#: inc/admin/views/tabs/theme.php:501
+msgid "Icon Color"
+msgstr "Couleur de l’icône"
+
+#: inc/admin/views/tabs/theme.php:508
+msgid "Icon Background Color"
+msgstr "Couleur d’arrière-plan de l’icône"
+
+#: inc/admin/views/tabs/theme.php:226
+msgid "Button Border Radius"
+msgstr "Arrondi du coin du bouton"
+
+#: inc/admin/views/tabs/theme.php:518
+msgid "Overlay Color"
+msgstr "Couleur de superposition"
+
+#: inc/admin/views/tabs/theme.php:592
+msgid "Lazy load image"
+msgstr "Chargement paresseux"
+
+#: inc/admin/views/tabs/theme.php:241
+msgid "Choose an icon"
+msgstr "Choisir une icône"
+
+#: inc/admin/views/tabs/content-source.php:486
+msgid "By description"
+msgstr "Par description"
+
+#: inc/admin/views/tabs/content-source.php:476
+msgid "By id"
+msgstr "Par id"
+
+#: inc/admin/views/tabs/content-source.php:481
+msgid "By name"
+msgstr "Par nom"
+
+#: inc/wplp-category-image.php:124 inc/wplp-category-image.php:178
+msgid "Category image"
+msgstr "Catégorie image"
+
+#: inc/admin/views/tabs/content-source.php:57
+#: inc/admin/views/tabs/content-source.php:162
+msgid "Category list"
+msgstr "Catégorie liste"
+
+#: inc/wplp-category-image.php:128 inc/wplp-category-image.php:184
+#: inc/wplp-category-image.php:215
+msgid "Choose Image"
+msgstr "Choisissez une image"
+
+#: inc/admin/views/tabs/image-source.php:100
+msgid "Full height images"
+msgstr "Images pleine hauteur"
+
+#: inc/wplp-category-image.php:59
+msgid "Image"
+msgstr "Image"
+
+#: inc/wplp-category-image.php:188
+msgid "Image for this category."
+msgstr "Image pour cette catégorie."
+
+#: inc/wplp-category-image.php:131 inc/wplp-category-image.php:187
+#: inc/wplp-category-image.php:218
+msgid "Remove Image"
+msgstr "Retirer l’image"
+
+#: inc/wplp-category-image.php:132
+msgid "Upload image for this category."
+msgstr "Téléverser une image pour cette catégorie."
+
+#: inc/admin/views/tabs/content-source.php:118
+msgid "Content language"
+msgstr "Langue du contenu"
+
+#: inc/admin/views/widget.php:41 inc/admin/views/configuration.php:7
+msgid "Translation"
+msgstr "Traduction"
+
+#: inc/admin/views/configuration.php:12
+msgid "About"
+msgstr "À propos de"
+
+#: inc/admin/views/tabs/content-source.php:228
+#: inc/admin/views/tabs/content-source.php:386
+#: inc/admin/views/tabs/content-source.php:536
+msgid "Multisite selection"
+msgstr "Sélection multisite"
+
+#: inc/admin/views/tabs/content-source.php:231
+#: inc/admin/views/tabs/content-source.php:390
+#: inc/admin/views/tabs/content-source.php:539
+msgid "All blog"
+msgstr "Tous les blogs"
+
+#: inc/wplp-front.inc.php:1579
+msgid "Load more"
+msgstr "Charger la suite"
+
+#: inc/admin/views/tabs/theme.php:129
+msgid "Image Position"
+msgstr "Position de l’image"
+
+#: inc/admin/views/tabs/theme.php:173
+msgid "Category"
+msgstr "Catégorie"
+
+#: inc/wplp-front.inc.php:1165 inc/wplp-front.inc.php:1174
+msgid "No content has been found here, sorry :)"
+msgstr "Aucun contenu n’a été trouvé ici, désolé :)"
+
+#. Plugin URI of the plugin
+msgid "http://www.joomunited.com/wordpress-products/wp-latest-posts"
+msgstr "http://www.joomunited.com/wordpress-products/wp-latest-posts"
+
+#. Author of the plugin
+#: inc/admin/views/configuration.php:160
+msgid "JoomUnited"
+msgstr "JoomUnited"
+
+#. Author URI of the plugin
+msgid "http://www.joomunited.com"
+msgstr "http://www.joomunited.com"
+
+#. Description of the plugin
+msgid "Advanced frontpage and widget news slider"
+msgstr "Interface publique avancée et widget de diaporama de nouvelles "
+
+#: inc/admin/views/tabs/theme.php:181
+msgid "Read more"
+msgstr "Lire la suite"
+
+#: inc/admin/views/tabs/theme.php:177
+msgid "Text"
+msgstr "Texte"
+
+#: inc/admin/views/tabs/list-blocks.php:59 inc/admin/views/tabs/theme.php:169
+#: inc/admin/views/tabs/shortcode.php:118
+msgid "Date"
+msgstr "Date"
+
+#: inc/admin/views/tabs/theme.php:165
+msgid "Author"
+msgstr "Auteurs"
+
+#: inc/admin/views/tabs/list-blocks.php:47 inc/admin/views/tabs/theme.php:161
+#: inc/admin/views/tabs/header-form.php:71
+msgid "Title"
+msgstr "Titre"
+
+#: inc/admin/views/tabs/theme.php:147
+msgid "Right"
+msgstr "Droite"
+
+#: inc/admin/views/tabs/theme.php:141
+msgid "Left"
+msgstr "Gauche"
+
+#: inc/admin/views/tabs/theme.php:135
+msgid "Top"
+msgstr "Haut"
+
+#: inc/wplp-widget.inc.php:28
+msgid "WP Latest Posts Widget instance"
+msgstr "Instances widget WP Latest Posts"
+
+#: inc/wplp-widget.inc.php:107
+msgid "Please create one to use this widget."
+msgstr "Veuillez créer un widget."
+
+#: inc/wplp-widget.inc.php:126
+msgid "News Widget:"
+msgstr "Widget d'actualités :"
+
+#: inc/wplp-widget.inc.php:105
+msgid "No Frontpage News Widget has been created."
+msgstr "Aucun widget de nouvelles pour l'interface publique n'a été créé."
+
+#: inc/admin/views/tabs/content-source.php:594
+msgid "By order"
+msgstr "Par ordre"
+
+#: inc/wplp-admin.inc.php:2069
+msgid "Get \"pro\" add-on"
+msgstr "Obtenir la version pro"
+
+#: inc/wplp-admin.inc.php:2071
+msgid "Support"
+msgstr "Support"
+
+#. Plugin Name of the plugin
+#: wp-latest-posts.php:93 inc/wplp-admin.inc.php:827 inc/wplp-admin.inc.php:828
+#: inc/wplp-admin.inc.php:1275 inc/wplp-admin.inc.php:1735
+msgid "WP Latest Posts"
+msgstr "WP Latest Posts"
+
+#: inc/wplp-admin.inc.php:1753
+msgid "Select which block to insert:"
+msgstr "Sélectionner le bloc de news à ajouter :"
+
+#: inc/wplp-admin.inc.php:1760
+msgid "Please create one to use this button."
+msgstr "Veuillez en créer un en utilisant ce bouton."
+
+#: inc/wplp-admin.inc.php:1691
+msgid "Add Latest Posts"
+msgstr "Ajouter les derniers articles"
+
+#: inc/wplp-admin.inc.php:1759
+msgid "No Latest Posts Widget has been created."
+msgstr "Aucun widget de derniers articles a été créé."
+
+#: inc/admin/views/tabs/content-source.php:356
+#: inc/admin/views/tabs/content-source.php:503
+#: inc/admin/views/tabs/content-source.php:626
+msgid "Descending"
+msgstr "Décroissant"
+
+#: inc/admin/views/tabs/content-source.php:351
+#: inc/admin/views/tabs/content-source.php:498
+#: inc/admin/views/tabs/content-source.php:621
+msgid "Ascending"
+msgstr "Croissant"
+
+#: inc/admin/views/tabs/content-source.php:329
+#: inc/admin/views/tabs/content-source.php:604
+msgid "By date"
+msgstr "Par date"
+
+#: inc/admin/views/tabs/content-source.php:339
+#: inc/admin/views/tabs/content-source.php:609
+msgid "By random"
+msgstr "Ordre aléatoire"
+
+#: inc/admin/views/tabs/content-source.php:334
+#: inc/admin/views/tabs/content-source.php:599
+msgid "By title"
+msgstr "Par titre"
+
+#: inc/admin/views/tabs/content-source.php:323
+#: inc/admin/views/tabs/content-source.php:345
+#: inc/admin/views/tabs/content-source.php:470
+#: inc/admin/views/tabs/content-source.php:588
+#: inc/admin/views/tabs/content-source.php:615
+msgid "Order by"
+msgstr "Classer par"
+
+#: inc/admin/views/configuration.php:168
+msgid "Please specify all of the above information when contacting us for support."
+msgstr "Veuillez spécifier toutes ces information lors d’une demande de support."
+
+#: inc/admin/views/tabs/content-source.php:492
+msgid "Posts sort order"
+msgstr "Classement par ordre des articles"
+
+#: inc/admin/views/configuration.php:32
+msgid "Get Pro version"
+msgstr "Obtenir la version pro"
+
+#: inc/admin/views/configuration.php:164
+msgid "Author: "
+msgstr "Auteur : "
+
+#: inc/admin/views/configuration.php:35
+msgid "Optional add-on is currently not installed or not enabled"
+msgstr "Le module facultatif n’est pas installé ou pas activé"
+
+#: inc/admin/views/configuration.php:37
+msgid "get it here !"
+msgstr "Obtenir le module !"
+
+#: inc/admin/views/configuration.php:149
+msgid "Get the Pro version now !"
+msgstr "Obtenir la version pro maintenant !"
+
+#: inc/admin/views/tabs/advanced.php:56
+msgid "Copy & paste this code into a template file to display this WPLP block"
+msgstr "Copiez et collez ce code dans un fichier modèle pour afficher ce bloc WPLP"
+
+#: inc/admin/views/tabs/advanced.php:49
+msgid "Custom CSS"
+msgstr "CSS personnalisé"
+
+#: inc/admin/views/tabs/advanced.php:29
+msgid "Excerpt content"
+msgstr "Extrait du contenu"
+
+#: inc/admin/views/tabs/advanced.php:26
+msgid "Full content"
+msgstr "Tout le contenu"
+
+#: inc/admin/views/tabs/advanced.php:23
+msgid "Text Content"
+msgstr "Contenu texte"
+
+#: inc/admin/views/tabs/advanced.php:17
+msgid "Date format"
+msgstr "Format de date"
+
+#: inc/admin/views/tabs/image-source.php:142
+msgid "Margin bottom"
+msgstr "Marge externe du bas"
+
+#: inc/admin/views/tabs/image-source.php:123
+msgid "Margin left"
+msgstr "Marge externe de gauche"
+
+#: inc/admin/views/tabs/image-source.php:136
+msgid "Margin right"
+msgstr "Marge externe de droite"
+
+#: inc/admin/views/tabs/image-source.php:130
+msgid "Margin top"
+msgstr "Marge externe du haut"
+
+#: inc/admin/views/tabs/image-source.php:84
+msgid "Large"
+msgstr "Large"
+
+#: inc/admin/views/tabs/image-source.php:82
+msgid "Medium"
+msgstr "Medium"
+
+#: inc/wplp-category-image.php:89 inc/wplp-category-image.php:209
+#: inc/admin/views/tabs/theme.php:157 inc/admin/views/tabs/image-source.php:80
+msgid "Thumbnail"
+msgstr "Vignettes"
+
+#: inc/admin/views/tabs/image-source.php:75
+msgid "Image size"
+msgstr "Taille d’image"
+
+#: inc/admin/views/tabs/theme.php:621
+msgid "Number of columns"
+msgstr "Nombre de colonnes"
+
+#: inc/admin/views/tabs/theme.php:627
+msgid "Number of rows"
+msgstr "Nombre de lignes"
+
+#: inc/admin/views/tabs/theme.php:641
+msgid "Pagination"
+msgstr "Pagination"
+
+#: inc/admin/views/tabs/theme.php:75
+msgid "Theme"
+msgstr "Thème"
+
+#: inc/admin/views/tabs/theme.php:633
+msgid "Max number of elements"
+msgstr "Nombre max d'éléments"
+
+#: inc/admin/views/tabs/theme.php:667
+msgid "Total width"
+msgstr "Largeur totale"
+
+#: inc/admin/views/tabs/theme.php:688
+msgid "Number of posts to skip"
+msgstr "Nombre d’articles à sauter"
+
+#: inc/admin/views/tabs/theme.php:597
+msgid "On"
+msgstr "On"
+
+#: inc/admin/views/tabs/theme.php:602
+msgid "Off"
+msgstr "Off"
+
+#: inc/admin/views/tabs/theme.php:566
+msgid "Show title"
+msgstr "Afficher le titre"
+
+#: inc/admin/views/tabs/content-source.php:59
+#: inc/admin/views/tabs/content-source.php:167
+msgid "Pages"
+msgstr "Pages"
+
+#: inc/admin/views/widget.php:28 inc/admin/views/tabs/advanced.php:11
+msgid "Advanced"
+msgstr "Avancé"
+
+#: inc/admin/views/widget.php:8
+msgid "Content source"
+msgstr "Contenu source"
+
+#: inc/admin/views/widget.php:13
+msgid "Display and theme"
+msgstr "Affichage et thème"
+
+#: inc/admin/views/widget.php:18
+msgid "Images source"
+msgstr "Images source"
+
+#: inc/wplp-admin.inc.php:800 inc/wplp-admin.inc.php:855
+msgid "Latest Posts"
+msgstr "Derniers articles"
+
+#: inc/wplp-admin.inc.php:797
+msgid "No WPLP Block found"
+msgstr "Aucun bloc WPLP trouvé"
+
+#: inc/wplp-admin.inc.php:798
+msgid "No WPLP Block found in Trash"
+msgstr "Aucun bloc WPLP trouvé dans la corbeille"
+
+#: inc/admin/views/tabs/header-form.php:37 inc/wplp-admin.inc.php:791
+msgid "Add New WPLP Block"
+msgstr "Ajouter un nouveau bloc WPLP"
+
+#: inc/wplp-admin.inc.php:796
+msgid "Search WPLP Blocks"
+msgstr "Rechercher des bloc WPLP"
+
+#: inc/wplp-admin.inc.php:793
+msgid "New WPLP Block"
+msgstr "Nouveau bloc WPLP"
+
+#: inc/admin/views/tabs/list-blocks.php:17 inc/wplp-admin.inc.php:794
+#: inc/wplp-admin.inc.php:841
+msgid "All News Blocks"
+msgstr "Tous les blocs de nouvelles"
+
+#: inc/admin/views/tabs/header-form.php:39 inc/wplp-admin.inc.php:792
+msgid "Edit WPLP Block"
+msgstr "Editer le bloc de nouvelles"
+
+#: inc/wplp-admin.inc.php:795
+msgid "View WPLP Block"
+msgstr "Voir le bloc WPLP"
+
+#: inc/wplp-admin.inc.php:790
+msgid "Add New"
+msgstr "Ajouter un nouveau"
+
+#: inc/wplp-admin.inc.php:788
+msgid "WP Latest Posts Blocks"
+msgstr "Blocs des derniers articles"
+
+#: inc/wplp-admin.inc.php:789
+msgid "WPLP Block"
+msgstr "Bloc WPLP "
+
+#: inc/wplp-front.inc.php:2642
+msgid "Read more..."
+msgstr "Lire la suite…"
